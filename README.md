@@ -1,3 +1,4 @@
 # Portfolio
 In this portfolio you have to describe your knowleges to your interviewer via Resume and also a progressing method to show your coding knowleges
+
 Career portfolios help with a job or acceptance into higher education institutes. A career portfolio should be personal and contain critical information. Items that should be included include (but are not limited to) personal information, evaluations, sample work, a business portrait, and awards and acknowledgments. Career portfolios are often kept in a simple three-ring binder or online as an electronic portfolio and updated often. A career portfolio is used as a marketing tool in selling oneself for personal advancement. In some industries, employers or admission offices commonly request a career portfolio, so it is a wise idea to have an updated one on hand.
